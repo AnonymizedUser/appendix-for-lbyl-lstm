@@ -1,2 +1,2 @@
-# appendix-for-lbyl-lstm
+# appendix for Leap-LSTM
 See Appendix.png please.
